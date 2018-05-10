@@ -9,9 +9,9 @@ In May 2018 I received a grant from the Scuttlebutt community as part of their o
 
 The initial proposal can be found [here](proposal.md) on github, or alongside comments & feedback from the community as the initial [Scuttlebutt thread](https://viewer.scuttlebot.io/%25pQsAJUruiVGvktcscF0xOi6eOd0TTtTkbqo%2FegbMH0M%3D.sha256).
 
-## Progress
+## Dev-Diary
 
-Weekly updates will be published as a dev-diary both in this [repository](dev-diary.md), as well as on the corresponding Scuttlebutt [thread](viewer.scuttlebutt.io)
+Weekly updates will be published as a dev-diary both in this [repository](dev-diary.md), as well as on the corresponding Scuttlebutt [thread](https://viewer.scuttlebot.io/%25IBIWk2HtyLvRYBur5JNBTA9KqRfTgL%2FGEDq%2F%2FzDrPTA%3D.sha256)
 
 ## Roadmap
 

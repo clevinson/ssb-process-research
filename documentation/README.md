@@ -1,7 +1,7 @@
 Documentation Structure -- Outline
 ==================================
 
-This git folder ([github](https://github.com/clevinson/ssb-process-research/blob/master/documentation)) will be where I post work-in-progress documtation for my ongoing #ssb-process-research project. It will start as its own set of documents, but later hopefully get merged into existing documentation (ssb-handbook, etc.)
+This folder ([github](https://github.com/clevinson/ssb-process-research/blob/master/documentation) | [git-ssb](http://localhost:7718/%25Da%2Bmoxvfbbz7u4cSfEjNsR8MakEpCHdJGydPyTfdutA%3D.sha256/tree/master/documentation)) will be where I post work-in-progress documtation for my ongoing #ssb-process-research project. It will start as its own set of documents, but later hopefully get merged into existing documentation (ssb-handbook, etc.)
 
 ## Outline
 

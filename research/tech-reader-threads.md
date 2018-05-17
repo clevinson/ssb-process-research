@@ -23,4 +23,6 @@ If as part of this research I end up wanting to incorporate some kind of mind-ma
 | [@mix](@ye+QM09iPcDJD6YvQYjoQc7sLF/IFhmNbEqgdzQo3lQ=.ed25519) | custom styles in patchbay | %rRUJN8HLPjDdcyIaD542g30kx4oberL8Rc3xz0uQj/Q=.sha256
 | [@Josiah](@HjH7assXYIZ5ATQkh1CKtnt6lpVVDY24/NB29okNido=.ed25519) | Introductions to Scuttlebutt Development | %yaPiT/ZKhobBe4yUOY/5mH2qpPYpdFoXRDPT6lg/4gE=.sha256
 | [@cryptix](@p13zSAiOpguI9nsawkGijsnMfWmFd5rlUNpzekEE+vI=.ed25519) | on ssb message verification | %M/qtHwvL1qgbQNZUowOnggGXAtgKuagjQMHGgreuETE=.sha256
+| [@bobhaugen](@iL6NzQoOLFP18pCpprkbY80DMtiG4JFFtVSVUaoGsOQ=.ed25519) | #activitypub, and value streams, and kappa architecture | %6CnEYe6F5IEVsHQa3rjTF8Ox7WBC7WZNZ2iEI7Aj6V8=.sha256
+
 

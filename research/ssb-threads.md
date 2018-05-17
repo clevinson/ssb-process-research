@@ -28,6 +28,8 @@ Please respond with any relavant threads that you have in your #bookmarks that y
 | [@andrestaltz](@QlCTpvY7p9ty2yOFrv1WU1AE88aoQc4Y7wYal7PFc+w=.ed25519) | "mobile SSB Quests" grants | %F6PqSrS7m1xlX2wGCbWsRs6oNjZjkKYsOM0ovKfu3gQ=.sha256
 | [@Dominic](@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519) | does ssb need a legal entity | %sW74DNIYIUJy4IQ8RrXEWURPMVA+oCS4ZwBHjeBdUB4=.sha256
 | [@ike](@+aQL1YGSyeEIhPRMcw96/ztOy41RoKSGD7la7BUZVmA=.ed25519) | asking about #cooperatives | %1FEiyz+EP6DaZ4mLI0HxCYhqTr1ZlBLRpCiKqYsfZo4=.sha256
+| [@bobhaugen](@iL6NzQoOLFP18pCpprkbY80DMtiG4JFFtVSVUaoGsOQ=.ed25519) | research methods (discussion btw bobhaugen & teq), "Participatory Action Research" | %1pNaNJsRiXD5lKsBvKFZP+o0X63+18ylDdiFR1fk8mA=.sha256
+
 
 ## Funding
 
@@ -36,6 +38,8 @@ Please respond with any relavant threads that you have in your #bookmarks that y
 | [@jolyon](@dfCIY3rP5idQFdjuOHrBJqrv6EgsSiNyn1NKz87UTJw=.ed25519) | on "ssb-chur #grants, money, alterative gift giving | %0f+5foyYVp3lWdLgi6EGRynat/ar9Q32VOOFbvk+zqQ=.sha256
 | [@dinosaur](@6ilZq3kN0F+dXFHAPjAwMm87JEb/VdB+LC9eIMW3sa0=.ed25519) | blockstack funding | %b5ZRRnGNWTyecAF/ox8VWZyO6eJfWVwaqin7AGmimlA=.sha256
 | [@mix](@ye+QM09iPcDJD6YvQYjoQc7sLF/IFhmNbEqgdzQo3lQ=.ed25519) | on "The Guild" | %tC1z4afNAjUCorw3UV9bI2krtMN8vLLqExk/Te0ML2Q=.sha256
+| [@mix](@ye+QM09iPcDJD6YvQYjoQc7sLF/IFhmNbEqgdzQo3lQ=.ed25519) | talking about "needs" in response to @elavoie | %HV8KXiTJZU0UvPKQJnOIowYgSN5SzRRkxFzsXKAAT9E=.sha256
+| [@raffle](@vzoU7/XuBB5B0xueC9NHFr9Q76VvPktD9GUkYgN9lAc=.ed25519) | call for help in applying for Unicef Innovation Fund | %gr3nRg9OPLKWRyfxKM7l5GHf+sq5FnnpkWmXTiHCj2w=.sha256
 
 ## SSB Theory
 

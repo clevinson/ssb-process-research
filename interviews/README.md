@@ -2,15 +2,12 @@ SSB Process Interviews
 ======================
 
 
-This folder ([github](https://github.com/clevinson/ssb-process-research/blob/master/interviews)) is where i'll be collecting notes from my research interviews.
+This folder ([github](https://github.com/clevinson/ssb-process-research/blob/master/interviews) | [git-ssb](http://localhost:7718/%25Da%2Bmoxvfbbz7u4cSfEjNsR8MakEpCHdJGydPyTfdutA%3D.sha256/tree/master/interviews)) is where i'll be collecting notes from my research interviews.
 
 Below, I outline a loose guide for how I plan to structure interviews with community members to better understand people's thoguhts & wildest dreams w/r/t documentation & visibility of SSB projects.
 
 ## Interview Structure
 
-Interviews 
-
-**Please let me know if you'd like to have a chat / participate!**  
 
 I'm looking to speak to a diverse range of:
 - new community members
@@ -47,7 +44,7 @@ I will be documenting my anonymized findings on github, and later compile them i
 - what would be your ideal scenario for consuming information about major technical developments / milestones in the scuttlebutt ecosystem?
 - what would be your ideal way to define / manage roadmaps and external communication for projects within ssb ?
 
-### The Structure
+### Process Structure
 
 - How much process is too much process?
 - When there is standardized guidelines for process, what should those guidelines look like?

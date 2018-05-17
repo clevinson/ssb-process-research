@@ -5,7 +5,7 @@ Please respond with any relavant threads that you have in your #bookmarks that y
 ------------
 **Note:** This document can be viewed on any of:
 - Scuttlebutt (%qEppDlYEvaGIEnTnCRd9O/UZP7L2MmlqSwt3CsT+fMg=.sha256)
-- [git-ssb](http://localhost:7718/%25Da%2Bmoxvfbbz7u4cSfEjNsR8MakEpCHdJGydPyTfdutA%3D.sha256/blob/9d339be86e67028e452d4b504896523b74caf778/research/ssb-threads.md) (persistently updated)
+- [git-ssb](http://localhost:7718/%25Da%2Bmoxvfbbz7u4cSfEjNsR8MakEpCHdJGydPyTfdutA%3D.sha256/blob/master/research/ssb-threads.md) (persistently updated)
 - [github](https://github.com/clevinson/ssb-process-research/blob/master/research/ssb-threads.md) (persistently updated)
 ------------
 

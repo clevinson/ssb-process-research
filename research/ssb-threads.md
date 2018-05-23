@@ -59,3 +59,5 @@ Please respond with any relavant threads that you have in your #bookmarks that y
 | [@bobhaugen](@iL6NzQoOLFP18pCpprkbY80DMtiG4JFFtVSVUaoGsOQ=.ed25519) | how a flock of tiny apps becomes like an ecosystem #open-app-ecosystem | %sexHXVUWOY/ZJzvaBKJKHjOC3802iFQIBlRlqrf9MMM=.sha256
 | [@elavoie](@IgYpd+tCtXnlE2tYX/8rR2AGt+P8svC98WH3MdYAa8Y=.ed25519) | "SSB is a universal community super-power" | %raROGngt7ornaUrZu6z+GESVUEgrq3D2uAtXeAERQqM=.sha256
 | [@mix](@ye+QM09iPcDJD6YvQYjoQc7sLF/IFhmNbEqgdzQo3lQ=.ed25519) | "all your butts" | %z28ZLyE7OSAjirrBG5RQyZzpVCilnoCb3MTY2lugwO0=.sha256
+| [@rhodey orbits](@zObwlZWdllQT42db+l34tJQ9UEkpcoeg+IFhlAGKImg=.ed25519) | the subconscious, intuition, and human skills | %dqS2VwUhbCSbbW63EibMScNXRV0XQL6tzvhzCAs8niw=.sha256
+| @noffle (@C3iYh/12sO1uvKq1KcZXLFxSySzxOkHxXN8rtNB5MGA=.ed25519) | message visibility controls | %IQGKmKH1k2ZiiRZR1up2kphywV189YRXey8Sj5/eMFE=.sha256

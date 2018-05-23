@@ -19,32 +19,32 @@ Below is an outline of a proposed rough timeline for the project, and major mile
 
 I've initially allocated 6 weeks to work on this project. Should the timeline change, this document will be updated accordingly to reflect the most up to date version of the project timeline.
 
-### Week 1: Initial Planning & Research
+### Stage 1: Initial Planning & Research
 
---> Dates: May 7-13, 2018
+--> Dates: May 7-20, 2018
 
 - Setup timeline & project structure
 - Collating previous threads of relevant material from accross the Scuttleverse, beginning to summarize annecdotal research
 - Researching relavant external (non-ssb) reading resources on processes for decentralized organizations
 - Selecting community members to interview
 
-### Week 2: Interviews
+### Stage 2: Interviews
 
---> Dates: May 14-20, 2018
+--> Dates: May 21-?, 2018
 
 - Conduct interviews
 - Begin compiling research notes into a more general viewpoint
 
-### Week 3-4: Sharing Results & Proposing Suggestions
+### Stage 3: Sharing Results & Proposing Suggestions
 
---> Dates: May 21 - June 3, 2018
+--> Dates: June 3 - June 15, 2018
 
 - Share research results with the Scuttleverse
 - Propose guidelines for process improvement
 
-### Week 5-6: Implementing Suggestions & Next Steps
+### Stage 4: Implementing Suggestions & Next Steps
 
---> Dates: June 4 - June 18, 2018
+--> Dates: June 16 - June 30, 2018
 
 - Implement any of the proccess improvement proposals for as many projects as I can individually
 - Followup conversations with scuttlebutter's for how to incentivize & best enable further development of this kind of work

@@ -29,6 +29,7 @@ Please respond with any relavant threads that you have in your #bookmarks that y
 | [@Dominic](@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519) | does ssb need a legal entity | %sW74DNIYIUJy4IQ8RrXEWURPMVA+oCS4ZwBHjeBdUB4=.sha256
 | [@ike](@+aQL1YGSyeEIhPRMcw96/ztOy41RoKSGD7la7BUZVmA=.ed25519) | asking about #cooperatives | %1FEiyz+EP6DaZ4mLI0HxCYhqTr1ZlBLRpCiKqYsfZo4=.sha256
 | [@bobhaugen](@iL6NzQoOLFP18pCpprkbY80DMtiG4JFFtVSVUaoGsOQ=.ed25519) | research methods (discussion btw bobhaugen & teq), "Participatory Action Research" | %1pNaNJsRiXD5lKsBvKFZP+o0X63+18ylDdiFR1fk8mA=.sha256
+| [@andrestaltz](@QlCTpvY7p9ty2yOFrv1WU1AE88aoQc4Y7wYal7PFc+w=.ed25519) | Refactoring our principles | %b1pH4LZQ4hp2acS036eSBeKJbsSgDAkpovN2JRhv8fI=.sha256
 
 
 ## Funding
@@ -60,4 +61,4 @@ Please respond with any relavant threads that you have in your #bookmarks that y
 | [@elavoie](@IgYpd+tCtXnlE2tYX/8rR2AGt+P8svC98WH3MdYAa8Y=.ed25519) | "SSB is a universal community super-power" | %raROGngt7ornaUrZu6z+GESVUEgrq3D2uAtXeAERQqM=.sha256
 | [@mix](@ye+QM09iPcDJD6YvQYjoQc7sLF/IFhmNbEqgdzQo3lQ=.ed25519) | "all your butts" | %z28ZLyE7OSAjirrBG5RQyZzpVCilnoCb3MTY2lugwO0=.sha256
 | [@rhodey orbits](@zObwlZWdllQT42db+l34tJQ9UEkpcoeg+IFhlAGKImg=.ed25519) | the subconscious, intuition, and human skills | %dqS2VwUhbCSbbW63EibMScNXRV0XQL6tzvhzCAs8niw=.sha256
-| @noffle (@C3iYh/12sO1uvKq1KcZXLFxSySzxOkHxXN8rtNB5MGA=.ed25519) | message visibility controls | %IQGKmKH1k2ZiiRZR1up2kphywV189YRXey8Sj5/eMFE=.sha256
+| [@noffle](@C3iYh/12sO1uvKq1KcZXLFxSySzxOkHxXN8rtNB5MGA=.ed25519) | message visibility controls | %IQGKmKH1k2ZiiRZR1up2kphywV189YRXey8Sj5/eMFE=.sha256

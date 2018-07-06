@@ -26,5 +26,10 @@ If as part of this research I end up wanting to incorporate some kind of mind-ma
 | [@bobhaugen](@iL6NzQoOLFP18pCpprkbY80DMtiG4JFFtVSVUaoGsOQ=.ed25519) | #activitypub, and value streams, and kappa architecture | %6CnEYe6F5IEVsHQa3rjTF8Ox7WBC7WZNZ2iEI7Aj6V8=.sha256
 | [@mix](@ye+QM09iPcDJD6YvQYjoQc7sLF/IFhmNbEqgdzQo3lQ=.ed25519) | flumeview-level | %QnST4giZkUpynAIaRZpRlRg+I/BLo5HA2QG/UnGlN7Q=.sha256
 | [@mix](@ye+QM09iPcDJD6YvQYjoQc7sLF/IFhmNbEqgdzQo3lQ=.ed25519) | flumeview-reduce | %jD+Zl3O5I5VZVC7WImUaBEw6I/0xiRHHHiKy1+KBBu0=.sha256
+| [@Dominic](@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519) | friends algorithm rewrite | %FOyO23xiOfbavyD5a8+KE2f5ZuU1bY/ko4dLRdCUpr4=.sha256
+
+
+
+
 
 
